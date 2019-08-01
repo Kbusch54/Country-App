@@ -1,0 +1,3 @@
+[america (pop 1]
+[Brazil (pop 8000]
+[Japan 5432222 (pop 8000, Japan 5432222 (pop 22222]
